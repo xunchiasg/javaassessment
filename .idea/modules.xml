@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final Project/Final Project.iml" filepath="$PROJECT_DIR$/Final Project/Final Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functions/Functions.iml" filepath="$PROJECT_DIR$/Functions/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA-master.iml" filepath="$PROJECT_DIR$/.idea/JAVA-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java IDE IntelliJ Idea/Java IDE IntelliJ Idea.iml" filepath="$PROJECT_DIR$/Java IDE IntelliJ Idea/Java IDE IntelliJ Idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object Oriented Programming - Advanced/Object Oriented Programming - Advanced.iml" filepath="$PROJECT_DIR$/Object Oriented Programming - Advanced/Object Oriented Programming - Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object Oriented Programming - Fundamentals/Object Oriented Programming - Fundamentals.iml" filepath="$PROJECT_DIR$/Object Oriented Programming - Fundamentals/Object Oriented Programming - Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism and Inheritance/Polymorphism and Inheritance.iml" filepath="$PROJECT_DIR$/Polymorphism and Inheritance/Polymorphism and Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit Testing with JUnit/Unit Testing with JUnit.iml" filepath="$PROJECT_DIR$/Unit Testing with JUnit/Unit Testing with JUnit.iml" />
+    </modules>
+  </component>
+</project>
