@@ -1,4 +1,9 @@
-<img align="right" width="150" height="150" src="https://media-exp1.licdn.com/dms/image/C4E0BAQF7BYCCZt5epw/company-logo_200_200/0?e=2159024400&v=beta&t=qUAFP9bUgBEEXGVQYpUXW1J_OiP8e0r4rFBpqp8OrxA">
 
-# Java Programming Fundamentals	
-Practice Exercises for the Java Programming Fundamentals module developed by <a href="https://www.generation.org" target="_blank">Generation.</a>
+<h2 align="center">javaassessment (FSD-04 Generation)</h2>
+
+Java Assessment for FSD-04 (Generation)
+
+Located in *Final Project/src/com/generation*
+
+[RR-JAVA-INTRO - End of Course Assessment](https://docs.google.com/document/d/1_LBd61DSMO0rP9m-QxgiCxPFlrz9YZKobYpHXfZFGwQ/edit?usp=sharing)
+
